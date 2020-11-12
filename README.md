@@ -22,7 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yangzm-hub&show_icons=true&theme=gruvbox)
 [Link](url) and ![Image](src)
 ```
 
